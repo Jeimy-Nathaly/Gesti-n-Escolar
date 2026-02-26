@@ -33,10 +33,6 @@ La aplicación fue realizada como práctica de aula, siguiendo las indicaciones 
 
 ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion1.png?raw=true)
 
-
-- Registro de Estudiantes:
-![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion10.png?raw=true)
-
 - Actualizacion del Estudiantes:
   ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion9.png?raw=true)
   
@@ -45,8 +41,8 @@ La aplicación fue realizada como práctica de aula, siguiendo las indicaciones 
 - Eliminacion del Estudiantes:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion3.png?raw=true)
 
-- Reporte de estudiantes:
-![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion8.png?raw=true)
+- Registro de Estudiantes:
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion10.png?raw=true)
 
 - Registro de profesors:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion6.png?raw=true)
