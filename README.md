@@ -35,16 +35,28 @@ La aplicación fue realizada como práctica de aula, siguiendo las indicaciones 
 
 
 - Registro de Estudiantes:
-![imagen alt](https://github.com/Jeimy-Nathaly/Calificacion-estudiantil/blob/main/two.png?raw=true)
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion10.png?raw=true)
+
+- Actualizacion del Estudiantes:
+  ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion9.png?raw=true)
+  
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion5.png?raw=true)
+
+- Eliminacion del Estudiantes:
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion3.png?raw=true)
+
+- Reporte de estudiantes:
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion8.png?raw=true)
+
+- Registro de profesors:
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion6.png?raw=true)
 
 - Proceso de Matriculación y Asignación:
-![imagen alt](https://github.com/Jeimy-Nathaly/Calificacion-estudiantil/blob/main/three.png?raw=true)
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion7.png?raw=true)
 
-- Reportes Estadísticos con Gráficos:
-![imagen alt](https://github.com/Jeimy-Nathaly/Calificacion-estudiantil/blob/main/four.png?raw=true)
+- Generación de reportes:
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion8.png?raw=true)
 
-- Generación de Comprobantes Oficiales:
-![imagen alt](https://github.com/Jeimy-Nathaly/Calificacion-estudiantil/blob/main/six.png?raw=true)
 
 
 ### Contexto Académico
