@@ -31,7 +31,7 @@ La aplicación fue realizada como práctica de aula, siguiendo las indicaciones 
 
 - Gestión y validación de campos obligatorios:
 
-![imagen alt](https://github.com/Jeimy-Nathaly/Calificacion-estudiantil/blob/main/one.png?raw=true)
+![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion1.png?raw=true)
 
 
 - Registro de Estudiantes:
