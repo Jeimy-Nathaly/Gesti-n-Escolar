@@ -48,7 +48,7 @@ La aplicación fue realizada como práctica de aula, siguiendo las indicaciones 
 - Reporte de Estudiantes:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion10.png?raw=true)
 
-- Registro de profesors:
+- Registro de profesores:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Gesti-n-Escolar/blob/main/Gestion6.png?raw=true)
 
 - Proceso de Matriculación y Asignación:
