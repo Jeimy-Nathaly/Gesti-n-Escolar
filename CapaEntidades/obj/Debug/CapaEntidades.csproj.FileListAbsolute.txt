@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Documentos\Proyectos\SQL_GestionEscolar\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\User\OneDrive\Documentos\Proyectos\SQL_GestionEscolar\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\User\OneDrive\Documentos\Proyectos\SQL_GestionEscolar\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Proyectos\SQL_GestionEscolar\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Proyectos\SQL_GestionEscolar\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\OneDrive\Documentos\Proyectos\SQL_GestionEscolar\CapaEntidades\obj\Debug\CapaEntidades.pdb

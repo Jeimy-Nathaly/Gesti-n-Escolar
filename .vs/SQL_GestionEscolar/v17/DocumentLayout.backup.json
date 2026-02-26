@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\fmrestudiante_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\fmrestudiante_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\user\\onedrive\\documentos\\proyectos\\sql_gestionescolar\\capapresentacion\\fmrestudiante_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\fmrestudiante_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmreporte_materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporte_materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\user\\onedrive\\documentos\\proyectos\\sql_gestionescolar\\capapresentacion\\frmprofesor_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprofesor_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmconsultaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmconsultaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jngestionescolar\\frmprofesor_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|solutionrelative:jngestionescolar\\frmprofesor_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jngestionescolar\\frmprofesor_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|solutionrelative:jngestionescolar\\frmprofesor_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\reportprofesor.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportprofesor.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capadatos\\d_areatecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_areatecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capadatos\\d_estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capadatos\\d_profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2BC02C-F3D4-4A29-80C9-ADA314A5BEF6}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5BFBA-1FB1-4B9A-9594-D6D4287ADAE0}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capaentidades\\e_estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5BFBA-1FB1-4B9A-9594-D6D4287ADAE0}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C5BFBA-1FB1-4B9A-9594-D6D4287ADAE0}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capaentidades\\e_profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C5BFBA-1FB1-4B9A-9594-D6D4287ADAE0}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capanegocios\\n_areatecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_areatecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capanegocios\\n_estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capanegocios\\n_materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capanegocios\\n_profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FA5010-B91A-42FE-91E1-7C7867203C36}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmreporte_materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporte_materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\capapresentacion\\frmconsultaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D634DCE-99B9-4203-89CB-3519A75DADD5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmconsultaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jngestionescolar\\profesor.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|solutionrelative:jngestionescolar\\profesor.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jngestionescolar\\reporte_es.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F35AE4B8-DC48-45AE-8FC1-FA45A16EA205}|jnGestionEscolar\\jnGestionEscolar.csproj|solutionrelative:jngestionescolar\\reporte_es.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 154,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmEstudiante.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmEstudiante.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmEstudiante.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmEstudiante.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAArwN8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:03:47.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FmrEstudiante_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FmrEstudiante_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FmrEstudiante_Reporte.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FmrEstudiante_Reporte.cs",
+              "RelativeToolTip": "CapaPresentacion\\FmrEstudiante_Reporte.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:14:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmReporte_Materia.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmReporte_Materia.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmReporte_Materia.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmReporte_Materia.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmReporte_Materia.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:10:29.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmReporte_Materia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmReporte_Materia.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmReporte_Materia.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmReporte_Materia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmReporte_Materia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:06:33.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAsignacion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmAsignacion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAsignacion.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmAsignacion.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmAsignacion.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:13:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAsignacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmAsignacion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAsignacion.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmAsignacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmAsignacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:07:59.014Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportProfesor.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\ReportProfesor.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ReportProfesor.rdlc",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\ReportProfesor.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\ReportProfesor.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-02-16T03:54:28.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmProfesor_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmProfesor_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmProfesor_Reporte.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FrmProfesor_Reporte.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmProfesor_Reporte.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:07:51.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmProfesor_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\FrmProfesor_Reporte.cs",
+              "RelativeDocumentMoniker": "jnGestionEscolar\\FrmProfesor_Reporte.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\FrmProfesor_Reporte.cs",
+              "RelativeToolTip": "jnGestionEscolar\\FrmProfesor_Reporte.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:40:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmProfesor_Reporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\FrmProfesor_Reporte.cs",
+              "RelativeDocumentMoniker": "jnGestionEscolar\\FrmProfesor_Reporte.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\FrmProfesor_Reporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "jnGestionEscolar\\FrmProfesor_Reporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:40:29.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Reporte_Es.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\Reporte_Es.rdlc",
+              "RelativeDocumentMoniker": "jnGestionEscolar\\Reporte_Es.rdlc",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\Reporte_Es.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "jnGestionEscolar\\Reporte_Es.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-02-16T02:34:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Profesor.xsd",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\Profesor.xsd",
+              "RelativeDocumentMoniker": "jnGestionEscolar\\Profesor.xsd",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\jnGestionEscolar\\Profesor.xsd",
+              "RelativeToolTip": "jnGestionEscolar\\Profesor.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-02-15T10:11:23.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "N_Materia.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_Materia.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Materia.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_Materia.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:45:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "D_Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\D_Profesor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Profesor.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\D_Profesor.cs",
+              "RelativeToolTip": "CapaDatos\\D_Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:44:46.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "N_Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_Profesor.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Profesor.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_Profesor.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:32:18.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmConsultaProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmConsultaProfesor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmConsultaProfesor.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmConsultaProfesor.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmConsultaProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:38:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmConsultaProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmConsultaProfesor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmConsultaProfesor.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmConsultaProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmConsultaProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:57:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FmrEstudiante_Reporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FmrEstudiante_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FmrEstudiante_Reporte.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\FmrEstudiante_Reporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FmrEstudiante_Reporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:56:56.456Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmEstudiante.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmEstudiante.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaPresentacion\\frmEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:04:30.229Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "E_Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaEntidades\\E_Profesor.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Profesor.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaEntidades\\E_Profesor.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:36:28.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "D_AreaTecnica.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\D_AreaTecnica.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_AreaTecnica.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\D_AreaTecnica.cs",
+              "RelativeToolTip": "CapaDatos\\D_AreaTecnica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:39:49.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "N_AreaTecnica.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_AreaTecnica.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_AreaTecnica.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_AreaTecnica.cs",
+              "RelativeToolTip": "CapaNegocios\\N_AreaTecnica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:34:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "D_Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\D_Estudiante.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Estudiante.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\D_Estudiante.cs",
+              "RelativeToolTip": "CapaDatos\\D_Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T10:14:53.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "E_Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaEntidades\\E_Estudiante.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Estudiante.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaEntidades\\E_Estudiante.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T10:12:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "N_Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_Estudiante.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Estudiante.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaNegocios\\N_Estudiante.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T10:19:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Proyectos\\SQL_GestionEscolar\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:30:25.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
